@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Application01</string>
+    <string name="txt_linear">线性布局</string>
+    <string name="txt_table">表格布局</string>
+    <string name="txt_constraint1">约束布局1</string>
+    <string name="txt_constraint2">约束布局2</string>
+    <string name="space_stations">Space Stations</string>
+    <string name="rovers">Rovers</string>
+    <string name="flights">Flights</string>
+    <string name="one_way">One Way</string>
+    <string name="round_trip">Round Trip</string>
+    <string name="dca">DCA</string>
+    <string name="mars">MARS</string>
+    <string name="traveller">1 Traveller</string>
+    <string name="depart">Depart</string>
+</resources>
